@@ -1,0 +1,59 @@
+begin
+  button = KEY_1
+  prog = robot_ir
+  config = LEFT_FORWARD
+end
+
+begin
+  button = KEY_2
+  prog = robot_ir
+  config = FORWARD
+end
+
+begin
+  button = KEY_3
+  prog = robot_ir
+  config = RIGHT_FORWARD
+end
+
+begin
+  button = KEY_4
+  prog = robot_ir
+  config = LEFT
+end
+
+begin
+  button = KEY_5
+  prog = robot_ir
+  config = STOP
+end
+
+begin
+  button = KEY_6
+  prog = robot_ir
+  config = RIGHT
+end
+
+begin
+  button = KEY_7
+  prog = robot_ir
+  config = LEFT_BACKWARD
+end
+
+begin
+  button = KEY_8
+  prog = robot_ir
+  config = BACKWARD
+end
+
+begin
+  button = KEY_9
+  prog = robot_ir
+  config = RIGHT_BACKWARD
+end
+
+begin
+  button = KEY_PAUSE
+  prog = robot_ir
+  config = LINE_FOLLOW_ON
+end
